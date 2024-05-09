@@ -6,6 +6,10 @@
 }
 
 .box {
+  /* add margin */
+  margin-left:150px;
+  margin-top:100px;
+  /* add margin */
   background: palevioletred;
   font-weight: bold;
   text-align: center;
